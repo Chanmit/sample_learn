@@ -33,7 +33,8 @@ gem 'bootsnap', '>= 1.1.0', require: false
 
 gem 'mongoid', '~> 6.0'
 gem 'bson_ext'
-gem 'bootstrap'
+#gem 'bootstrap'
+gem 'bootstrap-sass'
 gem 'jquery-rails'
 
 
